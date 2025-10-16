@@ -1,0 +1,90 @@
+MIT License
+
+Copyright (c) 2024 PrivacyGuard
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Additional Terms for PrivacyGuard
+
+### Ethical Use Clause
+
+This software is designed to help individuals exercise their legitimate privacy 
+rights under applicable data protection laws including but not limited to the 
+General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), 
+and similar privacy legislation.
+
+By using this software, you agree to:
+
+1. Use the software only for lawful purposes and in accordance with applicable 
+   privacy and data protection laws.
+
+2. Respect the terms of service and policies of third-party platforms when 
+   interacting with their services.
+
+3. Not use the software to violate the privacy rights of others or to access 
+   data or accounts that do not belong to you.
+
+4. Comply with all applicable laws and regulations in your jurisdiction when 
+   using automated data collection or account interaction features.
+
+5. Take responsibility for the secure handling of any personal data processed 
+   through the software.
+
+### Privacy and Data Protection
+
+PrivacyGuard is designed with privacy by design principles:
+
+- No personal data is transmitted to PrivacyGuard developers or operators
+- All data processing occurs locally or under your direct control
+- Encryption is used to protect personal data at rest and in transit
+- You maintain full control over your data and can delete it at any time
+
+### Platform Compliance
+
+When using PrivacyGuard's automation features:
+
+- The software attempts to comply with platform robots.txt files and terms of service
+- Rate limiting is implemented to avoid overwhelming target platforms
+- The software focuses on publicly available information and legitimate data subject rights
+- Users are responsible for ensuring their use complies with platform terms
+
+### Disclaimer
+
+The developers of PrivacyGuard provide this software as a tool to help individuals 
+exercise their privacy rights. The effectiveness of the software may vary depending 
+on platform policies, technical limitations, and changes to third-party services.
+
+Users are advised to:
+- Review and understand the terms of service of platforms they interact with
+- Consult with legal counsel if they have questions about their privacy rights
+- Keep the software updated to ensure compliance with evolving regulations
+
+### Contributing
+
+By contributing to PrivacyGuard, you agree that your contributions will be licensed 
+under the same MIT License terms. You also agree that your contributions will be 
+used in accordance with the ethical use guidelines outlined above.
+
+### Support
+
+For questions about licensing or ethical use, please contact:
+legal@privacyguard.io
+
+For technical support and bug reports:
+https://github.com/privacyguard/privacyguard/issues
