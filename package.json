@@ -1,0 +1,15 @@
+{
+  "name": "privacyguard-netlify",
+  "version": "1.0.0",
+  "description": "PrivacyGuard Netlify deployment wrapper",
+  "scripts": {
+    "install": "cd privacyguard && npm install",
+    "build": "cd privacyguard && npm install"
+  },
+  "dependencies": {
+    "serverless-http": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
