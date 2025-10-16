@@ -1,8 +1,23 @@
 # Netlify Deployment Guide for PrivacyGuard
 
-## Automatic Deployment via GitHub Integration
+## 🚀 Quick Deploy Options
 
-Since the Netlify CLI is having installation issues, here's how to deploy via the Netlify web interface:
+### Option 1: Automated Script (Recommended)
+Run the deployment script:
+```bash
+./deploy-netlify.sh
+```
+This script will:
+- Check and install Netlify CLI if needed
+- Authenticate with Netlify
+- Deploy your application automatically
+
+### Option 2: Manual Deploy Button (Instant)
+Click this button to deploy instantly:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/PresidentAnderson/privacyguard)
+
+### Option 3: GitHub Integration
 
 ### Step 1: Connect to Netlify
 1. Go to [netlify.com](https://netlify.com) and sign in
